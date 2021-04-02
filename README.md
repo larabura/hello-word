@@ -1,6 +1,5 @@
 # hello-word
-my first Repositry
-
-go
-go
+my first Repositry  
+go  
+go  
 go
